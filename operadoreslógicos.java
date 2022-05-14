@@ -1,4 +1,4 @@
-public class Mainoperadoreslógicos {
+public class operadoreslógicos {
 
     public static void main(String[] args) {
 
