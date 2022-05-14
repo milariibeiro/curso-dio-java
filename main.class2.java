@@ -1,6 +1,6 @@
 public class main.class2 {
 
-    public static void main.class2(String[] args){
+    public static void main(String[] args){
 
         byte b1 = 10;
         byte b2 = 20;
