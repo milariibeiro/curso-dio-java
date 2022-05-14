@@ -1,11 +1,6 @@
-package one.digitalinnovation.basecamp;
+public class main.class2 {
 
-/**
- * Classe de exemplo para o exercício da Aula 2 de Variáveis, Tipos de Dado e Operadores aritméticos.
- */
-public class Main2 {
-
-    public static void main(String[] args){
+    public static void main.class2(String[] args){
 
         byte b1 = 10;
         byte b2 = 20;
