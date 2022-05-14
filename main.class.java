@@ -1,11 +1,5 @@
-package one.digitalinnovation.basecamp;
 
-
-/**
- * Classe de exemplo para o exercício da Aula 1 de Variávies, Tipos de Dado e Operadores aritméticos.
- */
-
-public class Main {
+public class main.class {
 
     public static void main(String[] args) {
 
