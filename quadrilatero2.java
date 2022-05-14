@@ -1,4 +1,4 @@
-public class Quadrilatero {
+public class quadrilatero2 {
 
     public static double area(double lado) {
 
